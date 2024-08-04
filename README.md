@@ -3,7 +3,7 @@ DJI Mod tool collection
    DankDroneDownloader Tool
    DeeJayEYE Modder tool
    NLD,Dumldore
-   DJI Super Patcher
+   DJI Super Patcher  THIS HAS BEEN MODDED SLIGHTLY PLEASE READ THE NOTICE
    Silencio
    JKSon FCC MOD
    Gimbal calibration Tool
